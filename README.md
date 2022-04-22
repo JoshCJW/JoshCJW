@@ -31,7 +31,7 @@ I am a Back-End Developer <img src="https://media.giphy.com/media/7TcdtHOCxo3meU
 - 📫 Contact me: [![Linkedin Badge](https://img.shields.io/badge/-Joshuachanjw-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joshuachanjw)
 
 <hr>
-<h3>💻:  Language & Skills</h3>
+<h3>💻:  Language/Skills/Tools</h3>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="40" height="40"/>&nbsp;
