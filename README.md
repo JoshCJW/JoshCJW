@@ -28,7 +28,7 @@ I am a Back-End Developer <img src="https://media.giphy.com/media/7TcdtHOCxo3meU
 
 - 🧤 Love problem solving & exploring new tech ideas
 
-- 📫 Contact me: [![Linkedin Badge](https://img.shields.io/badge/-Joshuachanjw-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joshuachanjw")
+- 📫 Contact me: [![Linkedin Badge](https://img.shields.io/badge/-Joshuachanjw-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/joshuachanjw")
 
 <hr>
 <h3>💻:  Language & Skills</h3>
