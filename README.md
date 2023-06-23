@@ -22,7 +22,7 @@
 
 ### 🚶‍♂️: About Me :
 I am a Back-End Developer <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30"> from Singapore.
-- 🥇 I’m working as a Software Engineer with 2 years of experience.
+- 🥇 I’m working as a Software Engineer with 3 years of experience.
 
 - 🖥️ Personal Projects
 
