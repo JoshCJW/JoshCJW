@@ -22,7 +22,7 @@
 
 ### 🚶‍♂️: About Me :
 I am a Software Engineer <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30"> from Singapore.
-- 🥇 I’m working as a Software Engineer with 3 years of experience.
+- 🥇 I’m working as a Software Engineer with 4 years of experience.
 
 - 🖥️ Personal Projects
 
